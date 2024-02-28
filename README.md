@@ -28,4 +28,5 @@ Incorporamos visualizações que comparam os valores orçados com as previsões 
 
 Em resumo, nosso dashboard de vendas não apenas fornece insights valiosos sobre o desempenho das vendas, mas também oferece soluções direcionadas para os desafios específicos enfrentados pelo cliente. Com uma análise abrangente e visualização intuitiva dos dados, estamos capacitando nosso cliente a tomar decisões informadas e impulsionar o sucesso de seus negócios.
 
-![Dashboard de Vendas](https://app.powerbi.com/reportEmbed?reportId=aa3774b3-a169-4545-9e37-f1a278dc20ad&autoAuth=true&ctid=2d2d531a-2b9f-4727-b685-753cb31db710)([caminho/para/sua/imagem.png](https://github.com/georgehenriquecardoso/PowerBI-Projetos/blob/main/Dashboard%20Financeiro/Assets/Dashboard%20de%20Vendas.png)https://github.com/georgehenriquecardoso/PowerBI-Projetos/blob/main/Dashboard%20Financeiro/Assets/Dashboard%20de%20Vendas.png)
+![Dashboard de Vendas](https://app.powerbi.com/reportEmbed?reportId=aa3774b3-a169-4545-9e37-f1a278dc20ad&autoAuth=true&ctid=2d2d531a-2b9f-4727-b685-753cb31db710)
+[caminho/para/sua/imagem.png](https://github.com/georgehenriquecardoso/PowerBI-Projetos/blob/main/Dashboard%20Financeiro/Assets/Dashboard%20de%20Vendas.png)
