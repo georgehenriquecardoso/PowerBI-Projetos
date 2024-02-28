@@ -4,7 +4,7 @@
 
 ### Abaixo está uma prévia visual do dashboard interativo que analisa o desempenho de vendas da empresa:
 
-Esse dashboard de vendas foi cuidadosamente projetado para abordar e resolver os desafios críticos enfrentados por nosso cliente. Aqui está como nossa solução aborda cada um dos problemas identificados:
+Esses dashboards foram cuidadosamente projetados para abordar e resolver os desafios críticos enfrentados por nossos cliente. Aqui está como nossa solução aborda cada um dos problemas identificados:
 
 - Compra Errada de Materiais:
 
@@ -26,6 +26,6 @@ Implementamos uma seção dedicada ao DRE no dashboard, fornecendo uma visão cl
 Compreendemos a necessidade do cliente de acompanhar o desempenho em relação aos objetivos planejados.
 Incorporamos visualizações que comparam os valores orçados com as previsões reais, permitindo que o cliente avalie o desempenho em relação às metas estabelecidas. Isso ajuda a identificar discrepâncias e ajustar estratégias conforme necessário para alcançar os objetivos financeiros.
 
-Em resumo, nosso dashboard de vendas não apenas fornece insights valiosos sobre o desempenho das vendas, mas também oferece soluções direcionadas para os desafios específicos enfrentados pelo cliente. Com uma análise abrangente e visualização intuitiva dos dados, estamos capacitando nosso cliente a tomar decisões informadas e impulsionar o sucesso de seus negócios.
+Em resumo, nossso dashboards não apenas fornecem insights valiosos sobre o desempenho das vendas, mas também oferece soluções direcionadas para os desafios específicos enfrentados por cada cliente. Com uma análise abrangente e visualização intuitiva dos dados, estamos capacitando os clientes a tomarem decisões informadas e impulsionar o sucesso de seus negócios.
 
 - [Dashboard de Vendas:](https://app.powerbi.com/reportEmbed?reportId=aa3774b3-a169-4545-9e37-f1a278dc20ad&autoAuth=true&ctid=2d2d531a-2b9f-4727-b685-753cb31db710)
