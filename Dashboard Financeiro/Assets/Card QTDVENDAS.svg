@@ -1,0 +1,10 @@
+<svg width="285" height="157" viewBox="0 0 285 157" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="21" y="13" width="197.581" height="100" rx="20" fill="white"/>
+<path d="M21 44H29.6667C32.06 44 34 45.427 34 47.1875V91.8125C34 93.573 32.06 95 29.6667 95H21V44Z" fill="#71B751"/>
+<text fill="#12243A" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="41" y="38.75">QTD DE VENDAS</tspan></text>
+<text fill="#71B751" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="25" font-weight="bold" letter-spacing="0em"><tspan x="41" y="72.75">R$43.9M</tspan></text>
+<text fill="#12243A" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0em"><tspan x="83" y="92">vs Ano anterior</tspan></text>
+<text fill="#71B751" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="58" y="93">22%</tspan></text>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M47.6767 86.6078L53 85L51.675 90.6062L50.0222 88.9532L47.3559 91.8463C47.2654 91.9445 47.1403 92 47.0096 92C46.8789 92 46.7538 91.9445 46.6633 91.8463L44.7056 89.722L41.8263 92.8463C41.6427 93.0454 41.3388 93.052 41.1476 92.8607C40.9563 92.6694 40.9502 92.353 41.1337 92.1537L44.3593 88.6538C44.4498 88.5556 44.5749 88.5001 44.7056 88.5001C44.8363 88.5001 44.9614 88.5556 45.0519 88.6538L47.0096 90.778L49.3295 88.2607L47.6767 86.6078Z" fill="#71B751"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M47.6624 91.3656L53 93L51.7148 87.4538L50.0395 89.0709L47.3835 86.1911C47.2933 86.0934 47.168 86.0375 47.0367 86.0363C46.9053 86.0352 46.7792 86.0888 46.6874 86.185L44.7017 88.2648L41.8335 85.1548C41.6506 84.9565 41.3452 84.9476 41.1514 85.1346C40.9576 85.3217 40.9487 85.6341 41.1316 85.8324L44.3448 89.3163C44.435 89.4141 44.5602 89.47 44.6915 89.4711C44.823 89.4723 44.9491 89.4186 45.041 89.3225L47.0265 87.2426L49.3375 89.7484L47.6624 91.3656Z" fill="#DC4B2B"/>
+</svg>
